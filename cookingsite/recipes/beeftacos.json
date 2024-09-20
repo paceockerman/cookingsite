@@ -1,0 +1,24 @@
+{
+    "name": "Beef Tacos",
+    "time": 25,
+    "servings": 4,
+    "rating": 5,
+    "ingredients": [
+        "1 lb ground beef",
+        "1 packet taco seasoning",
+        "1/2 cup water",
+        "8 small tortillas",
+        "1 cup shredded lettuce",
+        "1 cup diced tomatoes",
+        "1/2 cup shredded cheese",
+        "1/4 cup sour cream",
+        "1/4 cup salsa"
+    ],
+    "steps": [
+        "Brown the ground beef in a pan.",
+        "Add taco seasoning and water, simmer for 5 minutes.",
+        "Warm the tortillas.",
+        "Assemble tacos with beef, lettuce, tomatoes, cheese, sour cream, and salsa."
+    ],
+    "notes": "Customize with your favorite toppings!"
+}

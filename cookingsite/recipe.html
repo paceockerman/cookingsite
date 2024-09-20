@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Website</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <div class="recipe-container">
+        <h1 id="name">Recipe Name</h1>
+
+        <div class="recipe-info">
+            <p><strong>Time Estimate:</strong> <span id="time-estimate"></span></p>
+            <p><strong>Serves:</strong> <span id="servings"></span></p>
+            <p><strong>Rating:</strong> <span id="rating"></span></p>
+        </div>
+
+        <h2>Ingredients</h2>
+        <ul id="ingredients"></ul>
+
+        <h2>Steps</h2>
+        <ol id="steps"></ol>
+
+        <h2>Additional Notes</h2>
+        <p id="notes"></p>
+    </div>
+
+    <script src="scripts/fillrecipe.js" type="module"></script>
+</body>
+
+</html>
